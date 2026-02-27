@@ -29,7 +29,7 @@ C:\Users\<YourUsername>\AppData\Roaming\
 Rename the existing file:
 
 ```
-LTspiceXVII.ini → LTspiceXVII_backup.ini
+LTspiceXVII.ini -> LTspiceXVII_backup.ini
 ```
 
 ### Step 3 - Copy the Repository Configuration
